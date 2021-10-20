@@ -4,8 +4,4 @@ The project itself will focus on preparing metadata, OCR, and clean-up for the s
 
 
 To browse the corpus click the following link:
-https://htmlpreview.github.io/?https://github.com/FChrispz/UYGHUR_TEST/blob/main/Metadata_22_09.html
-
-or
-
-https://htmlpreview.github.io/?https://github.com/FChrispz/UYGHUR_TEST/blob/main/Metadata_22_09_css.html
+https://htmlpreview.github.io/?https://github.com/HKBUproject/historical-uyghur-chinese-corpus/blob/main/Metadata_Final_19_10_div_centered.html
