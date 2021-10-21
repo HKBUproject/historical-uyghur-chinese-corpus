@@ -8,4 +8,4 @@ To browse the corpus click the following link:
 
 Each file is better displayed if you click on the "Raw" button in the corresponding window as shown below:
 
-<img src="/images/Raw_GitHub.png" class="inactiveLink">
+<img src="/images/Raw_GitHub.png" onclick="return false">
