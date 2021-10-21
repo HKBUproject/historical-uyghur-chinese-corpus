@@ -8,4 +8,4 @@ The project itself will focus on preparing metadata, OCR, and clean-up for the s
 
 Note: Each file is better displayed if you click on the "Raw" button in the corresponding window as shown below:
 
-<img src="/images/Raw_GitHub.png" pointer-events: none>
+<img src="/images/Raw_GitHub.png" pointer-events: none;>
