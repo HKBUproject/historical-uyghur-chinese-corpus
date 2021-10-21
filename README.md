@@ -6,4 +6,6 @@ The project itself will focus on preparing metadata, OCR, and clean-up for the s
 To browse the corpus click the following link:
 <a href="https://htmlpreview.github.io/?https://github.com/HKBUproject/historical-uyghur-chinese-corpus/blob/main/Metadata_Final_19_10_div_centered.html">Historical Uyghur-Chinese Corpus</a>
 
-Each file is better displayed if you click on the "Raw" button in the corresponding window.
+Each file is better displayed if you click on the "Raw" button in the corresponding window as shown below:
+
+<img src="/images/Raw_GitHub.png">
