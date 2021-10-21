@@ -3,7 +3,7 @@ The Uyghur Language Module project will compile a corpus of bilingual public doc
 The project itself will focus on preparing metadata, OCR, and clean-up for the source materials to enable keyword extraction and bilingual alignment of our data.
 
 
-<b>To browse the corpus click the following link:</b>
+<b>To browse the corpus click on the following link:</b>
 <a href="https://htmlpreview.github.io/?https://github.com/HKBUproject/historical-uyghur-chinese-corpus/blob/main/Metadata_Final_19_10_div_centered.html" target="_blank" rel="noopener noreferrer">Historical Uyghur-Chinese Corpus</a>
 
 Note: Each file is better displayed if you click on the "Raw" button in the corresponding window as shown below:
