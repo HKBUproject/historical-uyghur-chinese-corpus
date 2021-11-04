@@ -6,6 +6,10 @@ The project itself will focus on preparing metadata, OCR, and clean-up for the s
 <b>To browse the corpus click on the following link:</b>
 <a href="https://htmlpreview.github.io/?https://github.com/HKBUproject/historical-uyghur-chinese-corpus/blob/main/Metadata.html" target="_blank" rel="noopener noreferrer">Historical Uyghur-Chinese Corpus</a>
 
+You may cite this work as:
+Barnett, Robert, Merhaba Eli, Christian Faggionato, Nathan Hill, Jessica Yeung, and Ahmet Hojam. (2021). "Historical Uyghur-Chinese Corpus", Github repository, https://github.com/HKBUproject/historical-uyghur-chinese-corpus. 
+We thank Hong Kong Baptist University for its funding of and support for the pilot project "“History and Politics of Translation: Chinese Public Documents in Inner Asia–Uyghur-Language Module" (2019-2021), PI: Jessica Yeung; Co-I: Mark Shuttleworth, Jean-Pierre Cabestan. Project design and coordination: Robert Barnett.
+
 Note: Each file is better displayed if you click on the "Raw" button in the corresponding window as shown below:
 
 <img src="/images/Raw_GitHub.png">
