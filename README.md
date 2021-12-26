@@ -2,9 +2,8 @@
 <b>To browse the corpus click on the following link:</b>
 <a href="https://htmlpreview.github.io/?https://github.com/HKBUproject/historical-uyghur-chinese-corpus/blob/main/Metadata.html" target="_blank" rel="noopener noreferrer">Historical Uyghur-Chinese Corpus</a>
 
-Note: Each file is better displayed if you click on the "Raw" button in the corresponding window as shown below:
-
-<img src="/images/Raw_GitHub.png">
+      Note: Files display more clearly if you click on the "Raw" button in top right corner of the window, as shown here:
+      <img src="/images/Raw_GitHub.png">
 
 The Historical Uyghur-Chinese Corpus consists of a sample set of public documents produced in both Uyghur and Chinese since the late Qing period up to the present day. The term “public documents” here refers to documents or texts issued by a Qing or Chinese administration for public use, such as laws, proclamations, announcements, official journals, newspapers, and books. The purpose of the corpus is to document and illustrate official translation practices and policies in Inner Asian territories regarding the Chinese and Uyghur languages during this period.
 The total number of documents in various forms of Uyghur language in our corpus is 279, and for 201 of these we have included the Chinese version from which these were translated. 78 Chinese-language documents in the RB sub-collection have been included for comparative purposes even though they were not translated into Uyghur.
@@ -40,10 +39,10 @@ The language used in the RB sub-collection and in RA004 is Republican Chinese. W
 The language used in the PA and PC sub-collections is standard modern Chinese as found within the PRC.
 The texts in the QA, QB, RA and RB sub-collections use traditional Chinese characters, while the texts in the PA and PC sub-collections use simplified Chinese characters.
 
+The Corpus is the result of a pilot project entitled “History and Politics of Translation: Chinese Public Documents in Inner Asia – Uyghur-Language Module" (2019-2021), which was generously funded by Hong Kong Baptist University. The PI was Jessica Yeung; the Co-Is were Mark Shuttlewort and Jean-Pierre Cabestan'; project design and coordination were by Robert Barnett.
 
 You may cite this work as:
 Christian Faggionato, Merhaba Eli, Ahmet Hojam, Jenny Li, Phoebe Shing, Sezen Özkan, Robert Barnett, Nathan Hill and Jessica Yeung (2021). "Historical Uyghur-Chinese Corpus", Github repository, https://github.com/HKBUproject/historical-uyghur-chinese-corpus.
-We thank Hong Kong Baptist University for its funding of and support for the pilot project "“History and Politics of Translation: Chinese Public Documents in Inner Asia–Uyghur-Language Module" (2019-2021), PI: Jessica Yeung; Co-I: Mark Shuttleworth, Jean-Pierre Cabestan. Project design and coordination: Robert Barnett.
 
 <a id="note1" href="#note1ref"><sup>1</sup></a>The RB documents in Turki and RA004 were all translated from Chinese by the same translator or group of translators, working for the Mongolian and Chinese Affairs Commission.
 
