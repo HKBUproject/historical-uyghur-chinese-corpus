@@ -2,7 +2,7 @@
 <b>To browse the corpus click on the following link:</b>
 <a href="https://htmlpreview.github.io/?https://github.com/HKBUproject/historical-uyghur-chinese-corpus/blob/main/Metadata.html" target="_blank" rel="noopener noreferrer">Historical Uyghur-Chinese Corpus</a>
 
-      Note: Files display more clearly if you click on the "Raw" button in top right corner of the window, as shown here:
+Note: Files display more clearly if you click on the "Raw" button in top right corner of the window, as shown here:
 <img src="/images/Raw_GitHub.png">
 
 The Historical Uyghur-Chinese Corpus consists of a sample set of public documents produced in both Uyghur and Chinese since the late Qing period up to the present day. The term “public documents” here refers to documents or texts issued by a Qing or Chinese administration for public use, such as laws, proclamations, announcements, official journals, newspapers, and books. The purpose of the corpus is to document and illustrate official translation practices and policies in Inner Asian territories regarding the Chinese and Uyghur languages during this period.
