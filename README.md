@@ -16,6 +16,18 @@ PA – 50 legal documents from the People’s Republic of China (PRC) period (fr
 
 PC – 50 articles from Qiushi (“Seeking Truth”), a bimonthly journal published by the Central Party School of the Communist Party of China. The articles consist of theoretical discussions of government policies. The publication dates span from the 1994 to 2000.
 
+<b>Historical Forms of Uyghur in the Corpus</b>
+Since 1949, the language now known as Uyghur has become increasingly standardised. Earlier forms of the language are distinctive in a number of ways. To refer to the language found in documents issued before 1921 we have used the contemporary term “Turki” rather than the term “Turkic”, which is more commonly used in English to refer in general to cultures and languages which are cognate with Turkish culture or language.
+The language used in the non-Chinese texts in the QA, QB and RA subcollections (except for RA004) is relatively close to modern Uyghur apart from some orthographic features and a small number of morphological features. The writers of these documents use traditional Turkish-Arabic script found in Central Asia and tried to reproduce local spellings to make their content widely accessible. There are some linguistic variations within the QB sub-collection, because some of the texts were written by people from Russia.
+
+If the texts in this language were normalised to correspond with modern Uyghur we would expect good results in terms of NLP processing.
+
+The language and script used in the Turki documents in the RB sub-collection, and in RA004, dating from between 1921 and 1949, differ from those used in the earlier documents.  These reflect the attempt during that period to create a hybrid form of Turki with significant lexical borrowings from the Ottoman and Central-Asian Turkic languages, a project that continued from the end of the Qing empire in 1912 until the mid-40s. In line with the pan-Turkish ideology of that time, the authors followed Ottoman Turkish script and orthography as well as lexicon. As a result, to understand the texts, the readers needed a good knowledge of Ottoman Turkish and of local spoken Turki.  An NLP model trained on modern Uyghur would certainly fail in the processing of documents using this form of Turki.
+Both the language used in the QA, QB and RA documents and the language used in the RB documents (plus RA0004) coexisted: the former was widely used by the local population during the Republican period, while the new hybrid Turkic language started to be used in some official documents after the 1910s by some central government institutions.
+
+The language used in the PA and PC sub-collections is standard modern Uyghur as developed after 1949. As for the script, three reforms were introduced by the PRC after 1949, and the current form of the script differs significantly from that found in the earlier documents.
+
+
 
 
 <b>To browse the corpus click on the following link:</b>
