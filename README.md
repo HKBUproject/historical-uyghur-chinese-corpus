@@ -22,10 +22,10 @@ The language used in the non-Chinese texts in the QA, QB and RA subcollections (
 
 If the texts in this language were normalised to correspond with modern Uyghur we would expect good results in terms of NLP processing.
 
-The language and script used in the Turki documents in the RB sub-collection, and in RA004, dating from between 1921 and 1949, differ from those used in the earlier documents.  These reflect the attempt during that period to create a hybrid form of Turki with significant lexical borrowings from the Ottoman and Central-Asian Turkic languages, a project that continued from the end of the Qing empire in 1912 until the mid-40s. In line with the pan-Turkish ideology of that time, the authors followed Ottoman Turkish script and orthography as well as lexicon. As a result, to understand the texts, the readers needed a good knowledge of Ottoman Turkish and of local spoken Turki.  An NLP model trained on modern Uyghur would certainly fail in the processing of documents using this form of Turki.
+The language and script used in the Turki documents in the RB sub-collection, and in RA004, dating from between 1921 and 1949, differ from those used in the earlier documents.<a href="#note1" id="note1ref"><sup>1</sup></a> These reflect the attempt during that period to create a hybrid form of Turki with significant lexical borrowings from the Ottoman and Central-Asian Turkic languages, a project that continued from the end of the Qing empire in 1912 until the mid-40s. In line with the pan-Turkish ideology of that time, the authors followed Ottoman Turkish script and orthography as well as lexicon. As a result, to understand the texts, the readers needed a good knowledge of Ottoman Turkish and of local spoken Turki.  An NLP model trained on modern Uyghur would certainly fail in the processing of documents using this form of Turki.
 Both the language used in the QA, QB and RA documents and the language used in the RB documents (plus RA0004) coexisted: the former was widely used by the local population during the Republican period, while the new hybrid Turkic language started to be used in some official documents after the 1910s by some central government institutions.
 
-The language used in the PA and PC sub-collections is standard modern Uyghur as developed after 1949. As for the script, three reforms were introduced by the PRC after 1949, and the current form of the script differs significantly from that found in the earlier documents<a href="#note1" id="note1ref"><sup>1</sup></a>
+The language used in the PA and PC sub-collections is standard modern Uyghur as developed after 1949. As for the script, three reforms were introduced by the PRC after 1949, and the current form of the script differs significantly from that found in the earlier documents.
 
 
 
@@ -40,3 +40,5 @@ We thank Hong Kong Baptist University for its funding of and support for the pil
 Note: Each file is better displayed if you click on the "Raw" button in the corresponding window as shown below:
 
 <img src="/images/Raw_GitHub.png">
+
+<a id="note1" href="#note1ref"><sup>1</sup></a>The RB documents in Turki and RA004 were all translated from Chinese by the same translator or group of translators, working for the Mongolian and Chinese Affairs Commission.
