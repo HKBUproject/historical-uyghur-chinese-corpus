@@ -44,7 +44,7 @@ The texts in the QA, QB, RA and RB sub-collections use traditional Chinese chara
 
 
 You may cite this work as:
-Christian Faggionato, Merhaba Eli, Ahmet Hojam, Jenny Li, Phoebe Shing, Sezen Özkan and Nathan Hill. (2021). "Historical Uyghur-Chinese Corpus", Github repository, https://github.com/HKBUproject/historical-uyghur-chinese-corpus.
+Christian Faggionato, Merhaba Eli, Ahmet Hojam, Jenny Li, Phoebe Shing, Sezen Özkan, Robbie Barnett, Nathan, Hill and Jessica Yeung (2021). "Historical Uyghur-Chinese Corpus", Github repository, https://github.com/HKBUproject/historical-uyghur-chinese-corpus.
 We thank Hong Kong Baptist University for its funding of and support for the pilot project "“History and Politics of Translation: Chinese Public Documents in Inner Asia–Uyghur-Language Module" (2019-2021), PI: Jessica Yeung; Co-I: Mark Shuttleworth, Jean-Pierre Cabestan. Project design and coordination: Robert Barnett.
 
 <a id="note1" href="#note1ref"><sup>1</sup></a>The RB documents in Turki and RA004 were all translated from Chinese by the same translator or group of translators, working for the Mongolian and Chinese Affairs Commission.
