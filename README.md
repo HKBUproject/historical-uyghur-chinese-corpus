@@ -22,10 +22,18 @@ The language used in the non-Chinese texts in the QA, QB and RA subcollections (
 
 If the texts in this language were normalised to correspond with modern Uyghur we would expect good results in terms of NLP processing.
 
-The language and script used in the Turki documents in the RB sub-collection, and in RA004, dating from between 1921 and 1949, differ from those used in the earlier documents.<a href="#note1" id="note1ref"><sup>1</sup></a> These reflect the attempt during that period to create a hybrid form of Turki with significant lexical borrowings from the Ottoman and Central-Asian Turkic languages, a project that continued from the end of the Qing empire in 1912 until the mid-40s. In line with the pan-Turkish ideology of that time, the authors followed Ottoman Turkish script and orthography as well as lexicon. As a result, to understand the texts, the readers needed a good knowledge of Ottoman Turkish and of local spoken Turki.  An NLP model trained on modern Uyghur would certainly fail in the processing of documents using this form of Turki.
+The language and script used in the Turki documents in the RB sub-collection, and in RA004, dating from between 1921 and 1949, differ from those used in the earlier documents.<a href="#note1" id="note1ref"><sup>1</sup></a> These reflect the attempt during that period to create a hybrid form of Turki with significant lexical borrowings from the Ottoman and Central-Asian Turkic languages, a project that continued from the end of the Qing empire in 1912 until the mid-40s. In line with the pan-Turkish ideology of that time, the authors followed Ottoman Turkish script and orthography as well as lexicon. As a result, to understand the texts, the readers needed a good knowledge of Ottoman Turkish and of local spoken Turki.<a href="#note2" id="note2ref"><sup>2</sup></a> An NLP model trained on modern Uyghur would certainly fail in the processing of documents using this form of Turki.
 Both the language used in the QA, QB and RA documents and the language used in the RB documents (plus RA0004) coexisted: the former was widely used by the local population during the Republican period, while the new hybrid Turkic language started to be used in some official documents after the 1910s by some central government institutions.
 
 The language used in the PA and PC sub-collections is standard modern Uyghur as developed after 1949. As for the script, three reforms were introduced by the PRC after 1949, and the current form of the script differs significantly from that found in the earlier documents.
+
+<b>Historical Forms of Chinese in the Corpus</b>
+Two documents in the corpus are written in standard classical Chinese: QA001 and QA006. The other documents in the QA sub-collection use more colloquial linguistic forms and terms than found in mainstream classical Chinese texts, such as the Four Classics. This form of the language is somewhat similar to modern Chinese apart from some features that reflect the spoken language of that time.<a href="#note3" id="note1ref"><sup>3</sup></a> The language used in the QB documents (and in QA010, RA001, RA002, RA003, and RA005) uses a different register from that found in most of the QA documents and is even closer to spoken Chinese language of the time, apart from some bureaucratic forms of address at the beginning and at the end of the texts. It is thus not so remote from modern Chinese. 
+
+The language used in the RB sub-collection and in RA004 is Republican Chinese. While modern Chinese is a continuation of the official language used during the Qing empire and is mostly based on Beijing Chinese, Republican Chinese was based on the literature and the language used by Republican officials, who were mainly from southern China. These officials included some Japanese idiomatic expressions in their writings. Republican Chinese is similar to modern Chinese in terms of morphology and differs mostly in terms of lexicon.
+
+The language used in the PA and PC sub-collections is standard modern Chinese as found within the PRC.
+The texts in the QA, QB, RA and RB sub-collections use traditional Chinese characters, while the texts in the PA and PC sub-collections use simplified Chinese characters.
 
 
 
@@ -42,3 +50,5 @@ Note: Each file is better displayed if you click on the "Raw" button in the corr
 <img src="/images/Raw_GitHub.png">
 
 <a id="note1" href="#note1ref"><sup>1</sup></a>The RB documents in Turki and RA004 were all translated from Chinese by the same translator or group of translators, working for the Mongolian and Chinese Affairs Commission.
+<a id="note2" href="#note2ref"><sup>1</sup></a>Documents RA003 and RA005 show some influences from the forms of language found in the RB sub-collection, since they adopt a higher register in their lexicon and use an orthography similar to that found in the RB documents.
+<a id="note3" href="#note3ref"><sup>1</sup></a>QA009, since it is a literature text, is less colloquial but is still not standard classical Chinese.
