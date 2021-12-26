@@ -1,4 +1,11 @@
 # The Historical Uyghur-Chinese Corpus
+<b>To browse the corpus click on the following link:</b>
+<a href="https://htmlpreview.github.io/?https://github.com/HKBUproject/historical-uyghur-chinese-corpus/blob/main/Metadata.html" target="_blank" rel="noopener noreferrer">Historical Uyghur-Chinese Corpus</a>
+
+Note: Each file is better displayed if you click on the "Raw" button in the corresponding window as shown below:
+
+<img src="/images/Raw_GitHub.png">
+
 The Historical Uyghur-Chinese Corpus consists of a sample set of public documents produced in both Uyghur and Chinese since the late Qing period up to the present day. The term “public documents” here refers to documents or texts issued by a Qing or Chinese administration for public use, such as laws, proclamations, announcements, official journals, newspapers, and books. The purpose of the corpus is to document and illustrate official translation practices and policies in Inner Asian territories regarding the Chinese and Uyghur languages during this period.
 The total number of documents in various forms of Uyghur language in our corpus is 279, and for 201 of these we have included the Chinese version from which these were translated. 78 Chinese-language documents in the RB sub-collection have been included for comparative purposes even though they were not translated into Uyghur.
 The project focused on preparing metadata, OCR, text extraction, clean-up and pre-processing of the source material, NLP processing (word chunking, POS tagging and lemmatization), creation of wordlists and bilingual file-alignment.
@@ -28,7 +35,7 @@ Both the language used in the QA, QB and RA documents and the language used in t
 The language used in the PA and PC sub-collections is standard modern Uyghur as developed after 1949. As for the script, three reforms were introduced by the PRC after 1949, and the current form of the script differs significantly from that found in the earlier documents.
 
 <b>Historical Forms of Chinese in the Corpus</b>
-Two documents in the corpus are written in standard classical Chinese: QA001 and QA006. The other documents in the QA sub-collection use more colloquial linguistic forms and terms than found in mainstream classical Chinese texts, such as the Four Classics. This form of the language is somewhat similar to modern Chinese apart from some features that reflect the spoken language of that time.<a href="#note3" id="note1ref"><sup>3</sup></a> The language used in the QB documents (and in QA010, RA001, RA002, RA003, and RA005) uses a different register from that found in most of the QA documents and is even closer to spoken Chinese language of the time, apart from some bureaucratic forms of address at the beginning and at the end of the texts. It is thus not so remote from modern Chinese. 
+Two documents in the corpus are written in standard classical Chinese: QA001 and QA006. The other documents in the QA sub-collection use more colloquial linguistic forms and terms than found in mainstream classical Chinese texts, such as the Four Classics. This form of the language is somewhat similar to modern Chinese apart from some features that reflect the spoken language of that time.<a href="#note3" id="note1ref"><sup>3</sup></a> The language used in the QB documents (and in QA010, RA001, RA002, RA003, and RA005) uses a different register from that found in most of the QA documents and is even closer to spoken Chinese language of the time, apart from some bureaucratic forms of address at the beginning and at the end of the texts. It is thus not so remote from modern Chinese.
 
 The language used in the RB sub-collection and in RA004 is Republican Chinese. While modern Chinese is a continuation of the official language used during the Qing empire and is mostly based on Beijing Chinese, Republican Chinese was based on the literature and the language used by Republican officials, who were mainly from southern China. These officials included some Japanese idiomatic expressions in their writings. Republican Chinese is similar to modern Chinese in terms of morphology and differs mostly in terms of lexicon.
 
@@ -36,19 +43,12 @@ The language used in the PA and PC sub-collections is standard modern Chinese as
 The texts in the QA, QB, RA and RB sub-collections use traditional Chinese characters, while the texts in the PA and PC sub-collections use simplified Chinese characters.
 
 
-
-
-<b>To browse the corpus click on the following link:</b>
-<a href="https://htmlpreview.github.io/?https://github.com/HKBUproject/historical-uyghur-chinese-corpus/blob/main/Metadata.html" target="_blank" rel="noopener noreferrer">Historical Uyghur-Chinese Corpus</a>
-
 You may cite this work as:
 Barnett, Robert, Merhaba Eli, Christian Faggionato, Nathan Hill, Jessica Yeung, and Ahmet Hojam. (2021). "Historical Uyghur-Chinese Corpus", Github repository, https://github.com/HKBUproject/historical-uyghur-chinese-corpus.
 We thank Hong Kong Baptist University for its funding of and support for the pilot project "“History and Politics of Translation: Chinese Public Documents in Inner Asia–Uyghur-Language Module" (2019-2021), PI: Jessica Yeung; Co-I: Mark Shuttleworth, Jean-Pierre Cabestan. Project design and coordination: Robert Barnett.
 
-Note: Each file is better displayed if you click on the "Raw" button in the corresponding window as shown below:
-
-<img src="/images/Raw_GitHub.png">
-
 <a id="note1" href="#note1ref"><sup>1</sup></a>The RB documents in Turki and RA004 were all translated from Chinese by the same translator or group of translators, working for the Mongolian and Chinese Affairs Commission.
-<a id="note2" href="#note2ref"><sup>1</sup></a>Documents RA003 and RA005 show some influences from the forms of language found in the RB sub-collection, since they adopt a higher register in their lexicon and use an orthography similar to that found in the RB documents.
-<a id="note3" href="#note3ref"><sup>1</sup></a>QA009, since it is a literature text, is less colloquial but is still not standard classical Chinese.
+
+<a id="note2" href="#note2ref"><sup>2</sup></a>Documents RA003 and RA005 show some influences from the forms of language found in the RB sub-collection, since they adopt a higher register in their lexicon and use an orthography similar to that found in the RB documents.
+
+<a id="note3" href="#note3ref"><sup>3</sup></a>QA009, since it is a literature text, is less colloquial but is still not standard classical Chinese.
