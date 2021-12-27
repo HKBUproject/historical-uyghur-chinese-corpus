@@ -39,7 +39,7 @@ The language used in the RB sub-collection and in RA004 is Republican Chinese. W
 The language used in the PA and PC sub-collections is standard modern Chinese as found within the PRC.
 The texts in the QA, QB, RA and RB sub-collections use traditional Chinese characters, while the texts in the PA and PC sub-collections use simplified Chinese characters.
 
-<b>Project Team and Funding</b> 
+<b>Project Team and Funding: </b> 
 The Corpus is the result of a pilot project entitled “History and Politics of Translation: Chinese Public Documents in Inner Asia – Uyghur-Language Module" (2019-2021), which was generously funded by Hong Kong Baptist University. The PI was Jessica Yeung; the Co-Is were Mark Shuttleworth and Jean-Pierre Cabestan'; project design and coordination were by Robert Barnett.
 
 <b>Citation:</b> 
