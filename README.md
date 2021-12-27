@@ -22,7 +22,7 @@ PA – 50 legal documents from the People’s Republic of China (PRC) period (fr
 
 PC – 50 articles from Qiushi (“Seeking Truth”), a bimonthly journal published by the Central Party School of the Communist Party of China. The articles consist of theoretical discussions of government policies. The publication dates span from the 1994 to 2000.
 
-<b>Historical Forms of Uyghur in the Corpus</b>
+<b>Historical Forms of Uyghur in the Corpus: </b>
 Since 1949, the language now known as Uyghur has become increasingly standardised. Earlier forms of the language are distinctive in a number of ways. To refer to the language found in documents issued before 1921 we have used the contemporary term “Turki” rather than the term “Turkic”, which is more commonly used in English to refer in general to cultures and languages which are cognate with Turkish culture or language.
 The language used in the non-Chinese texts in the QA, QB and RA subcollections (except for RA004) is relatively close to modern Uyghur apart from some orthographic features and a small number of morphological features. The writers of these documents use traditional Turkish-Arabic script found in Central Asia and tried to reproduce local spellings to make their content widely accessible. There are some linguistic variations within the QB sub-collection, because some of the texts were written by people from Russia.
 
@@ -31,7 +31,7 @@ Both the language used in the QA, QB and RA documents and the language used in t
 
 The language used in the PA and PC sub-collections is standard modern Uyghur as developed after 1949. As for the script, three reforms were introduced by the PRC after 1949, and the current form of the script differs significantly from that found in the earlier documents.
 
-<b>Historical Forms of Chinese in the Corpus</b>
+<b>Historical Forms of Chinese in the Corpus: </b>
 Two documents in the corpus are written in standard classical Chinese: QA001 and QA006. The other documents in the QA sub-collection use more colloquial linguistic forms and terms than found in mainstream classical Chinese texts, such as the Four Classics. This form of the language is somewhat similar to modern Chinese apart from some features that reflect the spoken language of that time.<a href="#note3" id="note1ref"><sup>3</sup></a> The language used in the QB documents (and in QA010, RA001, RA002, RA003, and RA005) uses a different register from that found in most of the QA documents and is even closer to spoken Chinese language of the time, apart from some bureaucratic forms of address at the beginning and at the end of the texts. It is thus not so remote from modern Chinese.
 
 The language used in the RB sub-collection and in RA004 is Republican Chinese. While modern Chinese is a continuation of the official language used during the Qing empire and is mostly based on Beijing Chinese, Republican Chinese was based on the literature and the language used by Republican officials, who were mainly from southern China. These officials included some Japanese idiomatic expressions in their writings. Republican Chinese is similar to modern Chinese in terms of morphology and differs mostly in terms of lexicon.
@@ -39,10 +39,10 @@ The language used in the RB sub-collection and in RA004 is Republican Chinese. W
 The language used in the PA and PC sub-collections is standard modern Chinese as found within the PRC.
 The texts in the QA, QB, RA and RB sub-collections use traditional Chinese characters, while the texts in the PA and PC sub-collections use simplified Chinese characters.
 
-Project Team and Funding
+<b>Project Team and Funding</b> 
 The Corpus is the result of a pilot project entitled “History and Politics of Translation: Chinese Public Documents in Inner Asia – Uyghur-Language Module" (2019-2021), which was generously funded by Hong Kong Baptist University. The PI was Jessica Yeung; the Co-Is were Mark Shuttleworth and Jean-Pierre Cabestan'; project design and coordination were by Robert Barnett.
 
-Citation
+<b>Citation:</b> 
 You may cite this work as:
 Christian Faggionato, Merhaba Eli, Ahmet Hojam, Jenny Li, Phoebe Shing, Sezen Özkan, Robert Barnett, Nathan Hill and Jessica Yeung (2021). "Historical Uyghur-Chinese Corpus", Github repository, https://github.com/HKBUproject/historical-uyghur-chinese-corpus.
 
