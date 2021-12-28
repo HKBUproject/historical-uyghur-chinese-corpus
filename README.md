@@ -40,7 +40,7 @@ The language used in the PA and PC sub-collections is standard modern Chinese as
 The texts in the QA, QB, RA and RB sub-collections use traditional Chinese characters, while the texts in the PA and PC sub-collections use simplified Chinese characters.
 
 <b>Project Team and Funding: </b> 
-The Corpus is the result of a pilot project entitled “History and Politics of Translation: Chinese Public Documents in Inner Asia – Uyghur-Language Module" (2019-2021), which was generously funded by Hong Kong Baptist University. The PI was Jessica Yeung; the Co-Is were Mark Shuttleworth and Jean-Pierre Cabestan'; project design and coordination were by Robert Barnett.
+The Corpus is the result of a pilot project entitled “History and Politics of Translation: Chinese Public Documents in Inner Asia – Uyghur-Language Module" (2019-2021), which was generously funded by Hong Kong Baptist University through a Hong Kong Baptist University Research Committee Initiation Grant (Faculty Niche Research Areas (IG-FNRA) 2018/19-ARTS-03). The Project PI was Jessica Yeung; the Co-Is were Mark Shuttleworth and Jean-Pierre Cabestan; project design and coordination were by Robert Barnett. Project team members were Merhaba Eli, Christian Faggionato, Ahmet Hojam,Sezen Özkan, Rune Steenberg. Additional team members included Jenny Li, Phoebe Shing,and Aynur Muhammed. Project Consultants included Nathan Hill and David Brophy.
 
 <b>Citation:</b> 
 You may cite this work as:
