@@ -40,11 +40,11 @@ The language used in the PA and PC sub-collections is standard modern Chinese as
 The texts in the QA, QB, RA and RB sub-collections use traditional Chinese characters, while the texts in the PA and PC sub-collections use simplified Chinese characters.
 
 <b>Project Team and Funding: </b> 
-The Corpus is the result of a pilot project entitled “History and Politics of Translation: Chinese Public Documents in Inner Asia – Uyghur-Language Module" (2019-2021), which was generously funded by Hong Kong Baptist University through a Hong Kong Baptist University Research Committee Initiation Grant (Faculty Niche Research Areas (IG-FNRA) 2018/19-ARTS-03). The Project PI was Jessica Yeung; the Co-Is were Mark Shuttleworth and Jean-Pierre Cabestan; project design and coordination were by Robert Barnett. Project team members were Merhaba Eli, Christian Faggionato, Ahmet Hojam,Sezen Özkan, Rune Steenberg. Additional team members included Jenny Li, Phoebe Shing,and Aynur Muhammed. Project Consultants included Nathan Hill and David Brophy.
+The Corpus is the result of a pilot project entitled “History and Politics of Translation: Chinese Public Documents in Inner Asia – Uyghur-Language Module" (2019-2021), which was generously funded by Hong Kong Baptist University through a Hong Kong Baptist University Research Committee Initiation Grant (Faculty Niche Research Areas (IG-FNRA) 2018/19-ARTS-03). The Project PI was Jessica Yeung; the Co-Is were Mark Shuttleworth and Jean-Pierre Cabestan; project design and coordination were by Robert Barnett. Project team members were Merhaba Eli, Christian Faggionato, Ahmet Hojam,Sezen Özkan, Rune Steenberg. Additional team members included Jenny Li, Phoebe Shing,and Aynur Muhammed. Project Consultants included Nathan Hill, David Brophy and Hildegard Diemberger.
 
 <b>Citation:</b> 
 You may cite this work as:
-Christian Faggionato, Merhaba Eli, Ahmet Hojam, Jenny Li, Phoebe Shing, Sezen Özkan, Robert Barnett, Nathan Hill and Jessica Yeung (2021). "Historical Uyghur-Chinese Corpus", Github repository, https://github.com/HKBUproject/historical-uyghur-chinese-corpus.
+ Yeung, Jessica; Christian Faggionato; Merhaba Eli; Ahmet Hojam; Robert Barnett; Jenny Li; Phoebe Shing; Sezen Özkan; and Nathan Hill (2021). "Historical Uyghur-Chinese Corpus", Github repository, https://github.com/HKBUproject/historical-uyghur-chinese-corpus.
 
 <a id="note1" href="#note1ref"><sup>1</sup></a>The RB documents in Turki and RA004 were all translated from Chinese by the same translator or group of translators, working for the Mongolian and Chinese Affairs Commission.
 
