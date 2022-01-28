@@ -44,7 +44,7 @@ The Corpus is the result of a pilot project entitled “History and Politics of 
 
 <b>Citation:</b> 
 You may cite this work as:
- Yeung, Jessica; Christian Faggionato; Merhaba Eli; Ahmet Hojam; Robert Barnett; Jenny Li; Phoebe Shing; Sezen Özkan; and Nathan Hill (2021). "Historical Uyghur-Chinese Corpus", Github repository, https://github.com/HKBUproject/historical-uyghur-chinese-corpus.
+ Yeung, Jessica; Christian Faggionato; Merhaba Eli; Ahmet Hojam; Robert Barnett; Jenny Li; Phoebe Shing; Sezen Özkan; and Nathan Hill (2021). "The Historical Uyghur-Chinese Corpus", Github repository, https://github.com/HKBUproject/historical-uyghur-chinese-corpus.
 
 <a id="note1" href="#note1ref"><sup>1</sup></a>The RB documents in Turki and RA004 were all translated from Chinese by the same translator or group of translators, working for the Mongolian and Chinese Affairs Commission.
 
